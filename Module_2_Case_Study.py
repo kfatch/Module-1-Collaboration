@@ -1,7 +1,7 @@
 #Kody Fatch
 #Module_2_Case_Study
 #This app will take student's names and GPA as inputs and will test if the student qualifies for either the Dean's List or Honor Roll.
-
+#https://github.com/kfatch/Module-1-Collaboration/blob/master/Module_2_Case_Study.py
 counter = 0
 while counter == 0:
     last_name = input("Enter student's last name:\n")
